@@ -1,7 +1,7 @@
 <?php
 ini_set( 'display_errors', 1 );  
 error_reporting( E_ALL ); 
-$to      = 'gaetan.cottrez@orditech.be';
+$to      = 'gaetan@apprendre-la-programmation.net';
 $subject = 'le sujet';
 $message = 'Bonjour !';
 $headers = 'From: webmaster@example.com' . "\r\n" .
